@@ -1,0 +1,15 @@
+C:\Users\lemuel.cmgomes\source\repos\U9_Urna_Eletronica\U9_Urna_Eletronica\bin\Debug\net6.0\U9_Urna_Eletronica.exe
+C:\Users\lemuel.cmgomes\source\repos\U9_Urna_Eletronica\U9_Urna_Eletronica\bin\Debug\net6.0\U9_Urna_Eletronica.deps.json
+C:\Users\lemuel.cmgomes\source\repos\U9_Urna_Eletronica\U9_Urna_Eletronica\bin\Debug\net6.0\U9_Urna_Eletronica.runtimeconfig.json
+C:\Users\lemuel.cmgomes\source\repos\U9_Urna_Eletronica\U9_Urna_Eletronica\bin\Debug\net6.0\U9_Urna_Eletronica.dll
+C:\Users\lemuel.cmgomes\source\repos\U9_Urna_Eletronica\U9_Urna_Eletronica\bin\Debug\net6.0\ref\U9_Urna_Eletronica.dll
+C:\Users\lemuel.cmgomes\source\repos\U9_Urna_Eletronica\U9_Urna_Eletronica\bin\Debug\net6.0\U9_Urna_Eletronica.pdb
+C:\Users\lemuel.cmgomes\source\repos\U9_Urna_Eletronica\U9_Urna_Eletronica\obj\Debug\net6.0\U9_Urna_Eletronica.csproj.AssemblyReference.cache
+C:\Users\lemuel.cmgomes\source\repos\U9_Urna_Eletronica\U9_Urna_Eletronica\obj\Debug\net6.0\U9_Urna_Eletronica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lemuel.cmgomes\source\repos\U9_Urna_Eletronica\U9_Urna_Eletronica\obj\Debug\net6.0\U9_Urna_Eletronica.AssemblyInfoInputs.cache
+C:\Users\lemuel.cmgomes\source\repos\U9_Urna_Eletronica\U9_Urna_Eletronica\obj\Debug\net6.0\U9_Urna_Eletronica.AssemblyInfo.cs
+C:\Users\lemuel.cmgomes\source\repos\U9_Urna_Eletronica\U9_Urna_Eletronica\obj\Debug\net6.0\U9_Urna_Eletronica.csproj.CoreCompileInputs.cache
+C:\Users\lemuel.cmgomes\source\repos\U9_Urna_Eletronica\U9_Urna_Eletronica\obj\Debug\net6.0\U9_Urna_Eletronica.dll
+C:\Users\lemuel.cmgomes\source\repos\U9_Urna_Eletronica\U9_Urna_Eletronica\obj\Debug\net6.0\ref\U9_Urna_Eletronica.dll
+C:\Users\lemuel.cmgomes\source\repos\U9_Urna_Eletronica\U9_Urna_Eletronica\obj\Debug\net6.0\U9_Urna_Eletronica.pdb
+C:\Users\lemuel.cmgomes\source\repos\U9_Urna_Eletronica\U9_Urna_Eletronica\obj\Debug\net6.0\U9_Urna_Eletronica.genruntimeconfig.cache

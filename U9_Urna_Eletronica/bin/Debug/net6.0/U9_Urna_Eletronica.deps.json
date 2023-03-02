@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "U9_Urna_Eletronica/1.0.0": {
+        "runtime": {
+          "U9_Urna_Eletronica.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "U9_Urna_Eletronica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
